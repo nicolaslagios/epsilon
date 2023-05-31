@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a WordPress plugin that enhances your website's functionality by integrating with WooCommerce. The plugin allows you to connect your WordPress website with your Epsilon Smart. Every time you change the status of a new order to "completed", then the plugin automatically creates the invoice-receipt in your epsilon smart account.
+This project is a WordPress plugin that enhances your website's functionality by integrating your WooCommerce with Epsilon Smart Invoicing Service. The plugin allows you to connect your WordPress website with your Epsilon Smart. Every time you change the status of a new order to "completed", then the plugin automatically creates the invoice-receipt in your epsilon smart account.
 
 ## Installation
 

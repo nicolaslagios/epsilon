@@ -10,7 +10,7 @@ To install the plugin, follow these steps:
 
 1. Make sure you have WordPress installed and activated on your website.
 2. Install and activate the WooCommerce plugin, add your products, make your cnfigurations and wait for the first orders to come.
-3. Download the latest release of the "[https://github.com/nicolaslagios/epsilon/archive/refs/heads/main.zip](Woocommerce to Epsilon Smart)" plugin from this repository.
+3. Download the latest release of the "[Woocommerce to Epsilon Smart](https://github.com/nicolaslagios/epsilon/archive/refs/heads/main.zip)" plugin from this repository.
 4. In your WordPress admin panel, go to **Plugins > Add New**.
 5. Click on the **Upload Plugin** button.
 6. Choose the downloaded plugin ZIP file and click **Install Now**.

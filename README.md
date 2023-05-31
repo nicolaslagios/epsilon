@@ -1,4 +1,4 @@
-# Project Name
+# Epsilon Smart v0.8
 
 ## Description
 

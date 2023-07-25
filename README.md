@@ -1,4 +1,6 @@
-# Woocommerce to Epsilon Smart v0.8 by Nicolas Lagios (nicolaslagios.com - maxservices.gr)
+# Woocommerce to Epsilon Smart v0.8 by Nicolas Lagios (codnext.com - maxservices.gr)
+
+## Σε συνεργασία με την Codnext Software
 
 ## Description
 

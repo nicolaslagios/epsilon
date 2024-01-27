@@ -1,8 +1,23 @@
-# Woocommerce to Epsilon Smart v0.8 by Nicolas Lagios & Codnext
+# Woocommerce to Epsilon Smart v0.8 by Nicolas Lagios
 
-## Σε συνεργασία με την Codnext Software
+## Description GR
 
-## Description
+Το plugin στην τρέχουσα έκδοση, λειτουργεί μόνο για παραγγελίες με ένα προιόν στο καλάθι, ενός αποθέματος.
+Δηλαδή αν πουλάτε μια υπηρεσία ως προιόν eshop και θέλετε να κόψετε τιμολόγιο για αυτή μέσω Epsilon Smart.
+Επίσης θα χρειαστεί κλειδί χρήσης το οποίο σας δίνω μετά από επικοινωνία.
+Αν επιθυμείτε να το δούμε και να παραμετροποιήσουμε το plugin στις ανάγκες σας ή σας κάνει η τρέχουσα έκδοση και θέλετε απλώς κλειδί χρήσης, επικοινωνήστε μαζί μου στο NicolasLagios.com ή nick.lagios [-@-] gmail [.com]
+
+
+Mέχρι και την έκδοση v0.8 μπορεί να στείλει τιμολόγια προς Epsilon Smart χρησιμοποιώντας ένα single προϊόν στην epsilon smart, πχ ένα καταχωρημένο προϊόν με όνομα "Eshop Product".
+(Αυτό γιατί η epsilon smart δεν έχει μέθοδο καταχώρησης προϊόντος on the fly μέσω api και θα πρέπει όσα προιόντα είναι στο eshop σας να καταχωρηθούν με το χέρι και στο epsilon smart account.)
+Οπότε το flow της διαδικασίας είναι:
+1. Γίνεται μια παραγγελία στο eshop σας
+2. Η παραγγελία στέλνεται στο epsilon smart αυτόματα και βγαίνει το τιμολόγιο όπου είτε στέλνεται αυτόματα στο mydata , είτε το στέλνετε εσείς χειροκίνητα μετά από έλεγχο (είναι στις ρυθμίσεις του epsilon smart αυτό)
+3. Όσα προϊόντα και αν είναι στο καλάθι, θα αντιστοιχηθούν σε ένα single αναγνωριστικό προϊόν στο epsilon smart. Πχ "eshop product"
+4. Το plugin μέχρι στιγμής δεν βάζει δυναμικά τα τεμάχια ενός προϊόντος σε μια παραγγελία. Έχει ορισμένα τεμάχια ως 1.
+5. Επίσης δεν υποστηρίζει καλάθι με πολλά προϊόντα. Δηλαδή μπορείτε να στείλετε παραγγελία με ένα προιόν.
+
+## Description EN
 
 This project is a WordPress plugin that enhances your website's functionality by integrating your WooCommerce with Epsilon Smart Invoicing Service. The plugin allows you to connect your WordPress website with your Epsilon Smart. Every time you change the status of a new order to "completed", then the plugin automatically creates the invoice-receipt in your epsilon smart account.
 
